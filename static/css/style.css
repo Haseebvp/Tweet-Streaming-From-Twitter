@@ -1,0 +1,70 @@
+
+
+body {
+    background-color: #d0e4fe;
+    background-image: url('backgrounds/images (2).jpg'); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+
+
+}
+
+h5 {
+    text-align: left;
+    margin-top: 5px;
+    color: white;
+}
+/*h4 {
+    color: white;
+}
+*/
+
+
+p #load{
+    font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+p #popular {
+    font-family: "Times New Roman";
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+}
+
+.navbar-default {
+    background-color: black;
+    border-color: black;
+    border-style: inset;
+  
+
+
+}
+
+.navbar-default .navbar-brand {
+    font-size: 40px;
+    color: #444444;
+	font-family: 'MEgalopolisExtraRegular';
+	text-transform: uppercase;
+	text-shadow: -1px -1px 1px #000000, 1px 1px 1px #CCCCCC;
+    
+
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #5E5E5E;
+}
+
+
+h4 {
+	color: #444444;
+	font-family: 'MEgalopolisExtraRegular';
+	text-transform: uppercase;
+	text-shadow: -1px -1px 1px #000000, 1px 1px 1px #CCCCCC;
+}

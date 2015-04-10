@@ -1,0 +1,17 @@
+Django==1.8
+amqp==1.4.6
+anyjson==0.3.3
+argparse==1.2.1
+billiard==3.3.0.19
+celery==3.1.17
+django-celery==3.1.16
+nltk==3.0.2
+numpy==1.9.2
+oauthlib==0.7.2
+psycopg2==2.6
+pytz==2015.2
+requests==2.6.0
+requests-oauthlib==0.4.2
+six==1.9.0
+twython==3.2.0
+wsgiref==0.1.2
